@@ -1,8 +1,8 @@
 #include <iostream>
 
 int main(){
-    std::cout<<"je suis AZEMFACK GATSI PRINCESSE LOVELINE!  \n"<< std::endl;
-    std::cout << "je reside dans la ville de YAOUNDE" << std::endl;
+    std::cout<<" AZEMFACK GATSI PRINCESSE LOVELINE!  \n"<< std::endl;
+    std::cout << "YAOUNDE" << std::endl;
 
     return 0;
 }
